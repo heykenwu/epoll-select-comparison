@@ -1,0 +1,501 @@
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 13.601690 sec
+average response time : 0.136017 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 21.634809 sec
+average response time : 0.216348 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 23.038078 sec
+average response time : 0.230381 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 24.170979 sec
+average response time : 0.241710 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 24.654469 sec
+average response time : 0.246545 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 25.854809 sec
+average response time : 0.258548 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 26.178101 sec
+average response time : 0.261781 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 26.203360 sec
+average response time : 0.262034 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 26.224644 sec
+average response time : 0.262246 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 26.955797 sec
+average response time : 0.269558 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.026970 sec
+average response time : 0.270270 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.275383 sec
+average response time : 0.272754 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.464333 sec
+average response time : 0.274643 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.653728 sec
+average response time : 0.286537 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.555384 sec
+average response time : 0.275554 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.567480 sec
+average response time : 0.275675 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.574656 sec
+average response time : 0.275747 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.576115 sec
+average response time : 0.275761 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.523485 sec
+average response time : 0.275235 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.076572 sec
+average response time : 0.280766 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.205767 sec
+average response time : 0.282058 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.881027 sec
+average response time : 0.278810 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.907831 sec
+average response time : 0.279078 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.006002 sec
+average response time : 0.280060 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 27.952517 sec
+average response time : 0.279525 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.116688 sec
+average response time : 0.281167 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.024300 sec
+average response time : 0.280243 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.431540 sec
+average response time : 0.284315 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.457544 sec
+average response time : 0.284575 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.301497 sec
+average response time : 0.283015 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.363855 sec
+average response time : 0.283639 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.551922 sec
+average response time : 0.285519 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.181004 sec
+average response time : 0.281810 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.183352 sec
+average response time : 0.281833 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.401453 sec
+average response time : 0.284015 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.344809 sec
+average response time : 0.283448 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.492119 sec
+average response time : 0.284921 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.766117 sec
+average response time : 0.287661 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.605604 sec
+average response time : 0.286056 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.607340 sec
+average response time : 0.286073 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 28.694437 sec
+average response time : 0.286944 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.529716 sec
+average response time : 0.295297 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.333904 sec
+average response time : 0.293339 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.538969 sec
+average response time : 0.295390 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.489111 sec
+average response time : 0.294891 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.682440 sec
+average response time : 0.296824 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.791553 sec
+average response time : 0.297916 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.784895 sec
+average response time : 0.297849 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.764977 sec
+average response time : 0.297650 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.891294 sec
+average response time : 0.298913 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.896620 sec
+average response time : 0.298966 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.644423 sec
+average response time : 0.296444 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.666323 sec
+average response time : 0.296663 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.993345 sec
+average response time : 0.299933 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.733358 sec
+average response time : 0.297334 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.009146 sec
+average response time : 0.300091 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.955919 sec
+average response time : 0.299559 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.028349 sec
+average response time : 0.300283 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 29.994730 sec
+average response time : 0.299947 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.019159 sec
+average response time : 0.300192 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.149620 sec
+average response time : 0.301496 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.164753 sec
+average response time : 0.301648 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.311123 sec
+average response time : 0.303111 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.238838 sec
+average response time : 0.302388 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.073982 sec
+average response time : 0.300740 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.080816 sec
+average response time : 0.300808 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.353140 sec
+average response time : 0.303531 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.298773 sec
+average response time : 0.302988 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.388996 sec
+average response time : 0.303890 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.188578 sec
+average response time : 0.301886 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.305948 sec
+average response time : 0.303059 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.367294 sec
+average response time : 0.303673 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.278732 sec
+average response time : 0.302787 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.583908 sec
+average response time : 0.305839 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.515650 sec
+average response time : 0.305156 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.570604 sec
+average response time : 0.305706 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.497503 sec
+average response time : 0.304975 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.444769 sec
+average response time : 0.304448 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.718328 sec
+average response time : 0.307183 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.651123 sec
+average response time : 0.306511 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.777178 sec
+average response time : 0.307772 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.616095 sec
+average response time : 0.306161 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.819109 sec
+average response time : 0.308191 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.721918 sec
+average response time : 0.307219 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.567318 sec
+average response time : 0.305673 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.877399 sec
+average response time : 0.308774 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.727776 sec
+average response time : 0.307278 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.750822 sec
+average response time : 0.307508 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.769035 sec
+average response time : 0.307690 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.830633 sec
+average response time : 0.308306 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.764242 sec
+average response time : 0.307642 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.829004 sec
+average response time : 0.308290 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.906145 sec
+average response time : 0.309061 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.899384 sec
+average response time : 0.308994 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.857010 sec
+average response time : 0.308570 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.976786 sec
+average response time : 0.309768 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 30.939034 sec
+average response time : 0.309390 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 31.297987 sec
+average response time : 0.312980 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 31.313848 sec
+average response time : 0.313138 sec
+
+request count         : 100
+data transfer         : 1300 byte
+response time         : 31.319174 sec
+average response time : 0.313192 sec
+
